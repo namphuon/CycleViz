@@ -1,0 +1,3 @@
+chr2	100	200	name=foo;color=red
+chr2	300	400	name=bar;color=blue
+chr3	800	900	name=baz;color=black
